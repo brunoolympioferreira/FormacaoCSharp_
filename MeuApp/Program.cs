@@ -6,11 +6,10 @@ namespace MeuApp
     {
         static void Main(string[] args)
         {
-            char nome = 'b';
-            var segundaLetra = 'd';
-
-            string primeiraLetra = "Meu Texto";
-            var documento = "Novo documento";
+            float valor = 25.8f;
+            int outro = 25;
+            valor = outro;
+            Console.WriteLine(outro);
         }
     }
 }
