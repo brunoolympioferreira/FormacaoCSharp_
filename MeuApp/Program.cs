@@ -6,10 +6,41 @@ namespace MeuApp
     {
         static void Main(string[] args)
         {
-            float valor = 25.8f;
-            int outro = 25;
-            valor = outro;
-            Console.WriteLine(outro);
+            Product mouse = new Product(1, "Mouse-Gamer", 299.97);
+
+            mouse.Id = 55;
+
+            Console.WriteLine(mouse.Id);
+            Console.WriteLine(mouse.Name);
+            Console.WriteLine(mouse.Price);
+
         }
+
     }
+
+
+    struct Product
+    {
+        public Product(int id, string name, double price)
+        {
+            Id = id;
+            Name = name;
+            Price = price;
+        }
+        public int Id;
+        public string Name;
+        public double Price;
+
+
+        public double PriceInDollar(double dolar)
+        {
+            return Price * dolar;
+        }
+
+
+
+    }
+
 }
+
+
