@@ -1,27 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cursos\\FormacaoCSharp\\MeuApp\\MeuApp.csproj": {}
+    "C:\\Users\\Bruno\\Documents\\Cursos\\FormacaoCSharp\\MeuApp\\MeuApp.csproj": {}
   },
   "projects": {
-    "C:\\Cursos\\FormacaoCSharp\\MeuApp\\MeuApp.csproj": {
+    "C:\\Users\\Bruno\\Documents\\Cursos\\FormacaoCSharp\\MeuApp\\MeuApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cursos\\FormacaoCSharp\\MeuApp\\MeuApp.csproj",
+        "projectUniqueName": "C:\\Users\\Bruno\\Documents\\Cursos\\FormacaoCSharp\\MeuApp\\MeuApp.csproj",
         "projectName": "MeuApp",
-        "projectPath": "C:\\Cursos\\FormacaoCSharp\\MeuApp\\MeuApp.csproj",
-        "packagesPath": "C:\\Users\\b.olympio\\.nuget\\packages\\",
-        "outputPath": "C:\\Cursos\\FormacaoCSharp\\MeuApp\\obj\\",
+        "projectPath": "C:\\Users\\Bruno\\Documents\\Cursos\\FormacaoCSharp\\MeuApp\\MeuApp.csproj",
+        "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bruno\\Documents\\Cursos\\FormacaoCSharp\\MeuApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\b.olympio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

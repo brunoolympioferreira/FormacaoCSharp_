@@ -6,10 +6,8 @@ namespace MeuApp
     {
         static void Main(string[] args)
         {
-            float valor = 25.8f;
-            int outro = 25;
-            valor = outro;
-            Console.WriteLine(outro);
+            Console.WriteLine("Ola Mundo");
         }
     }
+    
 }
