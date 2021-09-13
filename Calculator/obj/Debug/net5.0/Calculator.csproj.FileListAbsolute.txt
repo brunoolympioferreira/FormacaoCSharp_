@@ -1,0 +1,16 @@
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\Calculator\bin\Debug\net5.0\Calculator.exe
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\Calculator\bin\Debug\net5.0\Calculator.deps.json
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\Calculator\bin\Debug\net5.0\Calculator.dll
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\Calculator\bin\Debug\net5.0\Calculator.pdb
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\Calculator\obj\Debug\net5.0\Calculator.dll
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\Calculator\obj\Debug\net5.0\Calculator.pdb
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
