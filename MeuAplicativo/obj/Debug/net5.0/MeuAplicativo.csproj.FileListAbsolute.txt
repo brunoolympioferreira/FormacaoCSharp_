@@ -1,0 +1,16 @@
+C:\Cursos\FormacaoCSharp\MeuAplicativo\bin\Debug\net5.0\MeuAplicativo.exe
+C:\Cursos\FormacaoCSharp\MeuAplicativo\bin\Debug\net5.0\MeuAplicativo.deps.json
+C:\Cursos\FormacaoCSharp\MeuAplicativo\bin\Debug\net5.0\MeuAplicativo.runtimeconfig.json
+C:\Cursos\FormacaoCSharp\MeuAplicativo\bin\Debug\net5.0\MeuAplicativo.runtimeconfig.dev.json
+C:\Cursos\FormacaoCSharp\MeuAplicativo\bin\Debug\net5.0\MeuAplicativo.dll
+C:\Cursos\FormacaoCSharp\MeuAplicativo\bin\Debug\net5.0\ref\MeuAplicativo.dll
+C:\Cursos\FormacaoCSharp\MeuAplicativo\bin\Debug\net5.0\MeuAplicativo.pdb
+C:\Cursos\FormacaoCSharp\MeuAplicativo\obj\Debug\net5.0\MeuAplicativo.csproj.AssemblyReference.cache
+C:\Cursos\FormacaoCSharp\MeuAplicativo\obj\Debug\net5.0\MeuAplicativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\FormacaoCSharp\MeuAplicativo\obj\Debug\net5.0\MeuAplicativo.AssemblyInfoInputs.cache
+C:\Cursos\FormacaoCSharp\MeuAplicativo\obj\Debug\net5.0\MeuAplicativo.AssemblyInfo.cs
+C:\Cursos\FormacaoCSharp\MeuAplicativo\obj\Debug\net5.0\MeuAplicativo.csproj.CoreCompileInputs.cache
+C:\Cursos\FormacaoCSharp\MeuAplicativo\obj\Debug\net5.0\MeuAplicativo.dll
+C:\Cursos\FormacaoCSharp\MeuAplicativo\obj\Debug\net5.0\ref\MeuAplicativo.dll
+C:\Cursos\FormacaoCSharp\MeuAplicativo\obj\Debug\net5.0\MeuAplicativo.pdb
+C:\Cursos\FormacaoCSharp\MeuAplicativo\obj\Debug\net5.0\MeuAplicativo.genruntimeconfig.cache

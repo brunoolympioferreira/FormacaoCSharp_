@@ -1,0 +1,16 @@
+C:\Cursos\FormacaoCSharp\Stopwatch\bin\Debug\net5.0\Stopwatch.exe
+C:\Cursos\FormacaoCSharp\Stopwatch\bin\Debug\net5.0\Stopwatch.deps.json
+C:\Cursos\FormacaoCSharp\Stopwatch\bin\Debug\net5.0\Stopwatch.runtimeconfig.json
+C:\Cursos\FormacaoCSharp\Stopwatch\bin\Debug\net5.0\Stopwatch.runtimeconfig.dev.json
+C:\Cursos\FormacaoCSharp\Stopwatch\bin\Debug\net5.0\Stopwatch.dll
+C:\Cursos\FormacaoCSharp\Stopwatch\bin\Debug\net5.0\ref\Stopwatch.dll
+C:\Cursos\FormacaoCSharp\Stopwatch\bin\Debug\net5.0\Stopwatch.pdb
+C:\Cursos\FormacaoCSharp\Stopwatch\obj\Debug\net5.0\Stopwatch.csproj.AssemblyReference.cache
+C:\Cursos\FormacaoCSharp\Stopwatch\obj\Debug\net5.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\FormacaoCSharp\Stopwatch\obj\Debug\net5.0\Stopwatch.AssemblyInfoInputs.cache
+C:\Cursos\FormacaoCSharp\Stopwatch\obj\Debug\net5.0\Stopwatch.AssemblyInfo.cs
+C:\Cursos\FormacaoCSharp\Stopwatch\obj\Debug\net5.0\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Cursos\FormacaoCSharp\Stopwatch\obj\Debug\net5.0\Stopwatch.dll
+C:\Cursos\FormacaoCSharp\Stopwatch\obj\Debug\net5.0\ref\Stopwatch.dll
+C:\Cursos\FormacaoCSharp\Stopwatch\obj\Debug\net5.0\Stopwatch.pdb
+C:\Cursos\FormacaoCSharp\Stopwatch\obj\Debug\net5.0\Stopwatch.genruntimeconfig.cache
