@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace MeuAplicativo
 {
@@ -6,6 +7,10 @@ namespace MeuAplicativo
     {
         static void Main(string[] args)
         {
+            Console.Clear();
+
+            Console.WriteLine(DateTime.DaysInMonth(2021, 8));
+
         }
     }
 }

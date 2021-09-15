@@ -1,0 +1,16 @@
+C:\Cursos\FormacaoCSharp\EditorHtml\bin\Debug\net5.0\EditorHtml.exe
+C:\Cursos\FormacaoCSharp\EditorHtml\bin\Debug\net5.0\EditorHtml.deps.json
+C:\Cursos\FormacaoCSharp\EditorHtml\bin\Debug\net5.0\EditorHtml.runtimeconfig.json
+C:\Cursos\FormacaoCSharp\EditorHtml\bin\Debug\net5.0\EditorHtml.runtimeconfig.dev.json
+C:\Cursos\FormacaoCSharp\EditorHtml\bin\Debug\net5.0\EditorHtml.dll
+C:\Cursos\FormacaoCSharp\EditorHtml\bin\Debug\net5.0\ref\EditorHtml.dll
+C:\Cursos\FormacaoCSharp\EditorHtml\bin\Debug\net5.0\EditorHtml.pdb
+C:\Cursos\FormacaoCSharp\EditorHtml\obj\Debug\net5.0\EditorHtml.csproj.AssemblyReference.cache
+C:\Cursos\FormacaoCSharp\EditorHtml\obj\Debug\net5.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\FormacaoCSharp\EditorHtml\obj\Debug\net5.0\EditorHtml.AssemblyInfoInputs.cache
+C:\Cursos\FormacaoCSharp\EditorHtml\obj\Debug\net5.0\EditorHtml.AssemblyInfo.cs
+C:\Cursos\FormacaoCSharp\EditorHtml\obj\Debug\net5.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Cursos\FormacaoCSharp\EditorHtml\obj\Debug\net5.0\EditorHtml.dll
+C:\Cursos\FormacaoCSharp\EditorHtml\obj\Debug\net5.0\ref\EditorHtml.dll
+C:\Cursos\FormacaoCSharp\EditorHtml\obj\Debug\net5.0\EditorHtml.pdb
+C:\Cursos\FormacaoCSharp\EditorHtml\obj\Debug\net5.0\EditorHtml.genruntimeconfig.cache
