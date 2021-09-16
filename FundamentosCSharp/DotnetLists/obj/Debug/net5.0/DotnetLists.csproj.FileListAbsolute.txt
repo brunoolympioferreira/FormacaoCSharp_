@@ -1,0 +1,16 @@
+C:\Cursos\FormacaoCSharp\DotnetLists\bin\Debug\net5.0\DotnetLists.exe
+C:\Cursos\FormacaoCSharp\DotnetLists\bin\Debug\net5.0\DotnetLists.deps.json
+C:\Cursos\FormacaoCSharp\DotnetLists\bin\Debug\net5.0\DotnetLists.runtimeconfig.json
+C:\Cursos\FormacaoCSharp\DotnetLists\bin\Debug\net5.0\DotnetLists.runtimeconfig.dev.json
+C:\Cursos\FormacaoCSharp\DotnetLists\bin\Debug\net5.0\DotnetLists.dll
+C:\Cursos\FormacaoCSharp\DotnetLists\bin\Debug\net5.0\ref\DotnetLists.dll
+C:\Cursos\FormacaoCSharp\DotnetLists\bin\Debug\net5.0\DotnetLists.pdb
+C:\Cursos\FormacaoCSharp\DotnetLists\obj\Debug\net5.0\DotnetLists.csproj.AssemblyReference.cache
+C:\Cursos\FormacaoCSharp\DotnetLists\obj\Debug\net5.0\DotnetLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\FormacaoCSharp\DotnetLists\obj\Debug\net5.0\DotnetLists.AssemblyInfoInputs.cache
+C:\Cursos\FormacaoCSharp\DotnetLists\obj\Debug\net5.0\DotnetLists.AssemblyInfo.cs
+C:\Cursos\FormacaoCSharp\DotnetLists\obj\Debug\net5.0\DotnetLists.csproj.CoreCompileInputs.cache
+C:\Cursos\FormacaoCSharp\DotnetLists\obj\Debug\net5.0\DotnetLists.dll
+C:\Cursos\FormacaoCSharp\DotnetLists\obj\Debug\net5.0\ref\DotnetLists.dll
+C:\Cursos\FormacaoCSharp\DotnetLists\obj\Debug\net5.0\DotnetLists.pdb
+C:\Cursos\FormacaoCSharp\DotnetLists\obj\Debug\net5.0\DotnetLists.genruntimeconfig.cache
