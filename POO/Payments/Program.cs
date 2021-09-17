@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Payments
 {
@@ -6,26 +7,25 @@ namespace Payments
     {
         static void Main(string[] args)
         {
-            var pagamentoBoleto = new PagamentoBoleto();
-            Console.WriteLine("Hello World!");
-        }
+            var payments = new List<Payment>();
+            payments.Add(new Payment(1));
+            payments.Add(new Payment(2));
+            payments.Add(new Payment(3));
+            payments.Add(new Payment(4));
+            payments.Add(new Payment(5));
 
-        public class Pagamento
-        {
-            //Propriedades
-            public DateTime Vencimento;
-            //Métodos
-            public void Pagar()
+            foreach (var payment in payments)
             {
-
+                Console.WriteLine(payment.Id);
             }
-
         }
-        public class PagamentoBoleto : Pagamento
+        public class Payment
         {
-            public DateTime Vencimento;
-
-            public void pagar() { }
+            public int Id { get; set; }
+            public Payment(int id)
+            {
+                Id = id;
+            }
         }
     }
 }

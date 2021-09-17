@@ -1,0 +1,16 @@
+C:\Cursos\FormacaoCSharp\POO\Payments\bin\Debug\net5.0\Payments.exe
+C:\Cursos\FormacaoCSharp\POO\Payments\bin\Debug\net5.0\Payments.deps.json
+C:\Cursos\FormacaoCSharp\POO\Payments\bin\Debug\net5.0\Payments.runtimeconfig.json
+C:\Cursos\FormacaoCSharp\POO\Payments\bin\Debug\net5.0\Payments.runtimeconfig.dev.json
+C:\Cursos\FormacaoCSharp\POO\Payments\bin\Debug\net5.0\Payments.dll
+C:\Cursos\FormacaoCSharp\POO\Payments\bin\Debug\net5.0\ref\Payments.dll
+C:\Cursos\FormacaoCSharp\POO\Payments\bin\Debug\net5.0\Payments.pdb
+C:\Cursos\FormacaoCSharp\POO\Payments\obj\Debug\net5.0\Payments.csproj.AssemblyReference.cache
+C:\Cursos\FormacaoCSharp\POO\Payments\obj\Debug\net5.0\Payments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\FormacaoCSharp\POO\Payments\obj\Debug\net5.0\Payments.AssemblyInfoInputs.cache
+C:\Cursos\FormacaoCSharp\POO\Payments\obj\Debug\net5.0\Payments.AssemblyInfo.cs
+C:\Cursos\FormacaoCSharp\POO\Payments\obj\Debug\net5.0\Payments.csproj.CoreCompileInputs.cache
+C:\Cursos\FormacaoCSharp\POO\Payments\obj\Debug\net5.0\Payments.dll
+C:\Cursos\FormacaoCSharp\POO\Payments\obj\Debug\net5.0\ref\Payments.dll
+C:\Cursos\FormacaoCSharp\POO\Payments\obj\Debug\net5.0\Payments.pdb
+C:\Cursos\FormacaoCSharp\POO\Payments\obj\Debug\net5.0\Payments.genruntimeconfig.cache
