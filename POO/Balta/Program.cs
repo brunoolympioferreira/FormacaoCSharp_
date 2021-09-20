@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using Balta.ContentContext;
+using Balta.SubscriptionContext;
 
 namespace Balta
 {
@@ -32,9 +33,9 @@ namespace Balta
             var careers = new List<Career>();
             var careeerDotNet = new Career("Especialista .NET", "Especialista-dotnet");
             var careerItem2 = new CareerItem(2, "Aprenda OOP", "", null);
-            var careerItem = new CareerItem(1, "Comece por aqui", "", null);
-            var careerItem3 = new CareerItem(3, "Aprenda .NET", "", null);
-            
+            var careerItem = new CareerItem(1, "Comece por aqui", "", courseCsharp);
+            var careerItem3 = new CareerItem(3, "Aprenda .NET", "", courseAspNet);
+
             careeerDotNet.Items.Add(careerItem2);
             careeerDotNet.Items.Add(careerItem);
             careeerDotNet.Items.Add(careerItem3);
@@ -46,6 +47,16 @@ namespace Balta
                 foreach (var item in career.Items.OrderBy(x => x.Order)) //Ordenacao de listas
                 {
                     Console.WriteLine($"{item.Order} - {item.Title}");
+                    Console.WriteLine(item.Course?.Title);
+                    Console.WriteLine(item.Course?.Level);
+
+                    foreach (var notification in item.Notifications)
+                    {
+                        Console.WriteLine($"{notification.Property} - {notification.Message}");
+                    }
+                    var payPalSubstripon = new PayPalSubstripon();
+                    var student = new Student();
+                    student.CreateSubscription(payPalSubstripon);
                 }
             }
         }

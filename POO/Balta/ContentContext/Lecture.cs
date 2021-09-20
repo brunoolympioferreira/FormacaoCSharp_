@@ -1,9 +1,10 @@
 using Balta.ContentContext.Enums;
+using Balta.SharedContext;
 
 namespace Balta.ContentContext
 {
 
-    public class Lecture
+    public class Lecture : Base
     {
         //Propriedades
         public int Ordem { get; set; }
