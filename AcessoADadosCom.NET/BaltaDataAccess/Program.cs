@@ -19,8 +19,10 @@ namespace BaltaDataAccess
             using (var connection = new SqlConnection(conectionString))
             {
                 //CreateManyCategory(connection);
+                //GetCategory(connection);
                 //CreateCategory(connection);
                 //UpdateCategory(connection);
+                //DeleteCategory(connection);
                 //ListCategories(connection);
                 //ExecuteProcedure(connection);
                 //ExecuteReadProcedure(connection);
@@ -31,7 +33,7 @@ namespace BaltaDataAccess
                 //QueryMultiple(connection);
                 //SelectIn(connection);
                 //Like(connection, "api");
-                Transaction(connection);
+                //Transaction(connection);
 
             }
         }
@@ -44,6 +46,19 @@ namespace BaltaDataAccess
             {
                 System.Console.WriteLine($"{item.Id} - {item.Title}");
             }
+        }
+
+        static void GetCategory(SqlConnection connection)
+        {
+            var category = connection
+                .QueryFirstOrDefault<Category>(
+                    "SELECT TOP 1 [Id], [Title] FROM [Category] WHERE [Id]=@id",
+                    new
+                    {
+                        id = "af3407aa-11ae-4621-a2ef-2028b85507c4"
+                    });
+            Console.WriteLine($"{category.Id} - {category.Title}");
+
         }
 
         static void CreateCategory(SqlConnection connection)
@@ -91,6 +106,17 @@ namespace BaltaDataAccess
                 title = "Frontend 2021"
             });
             System.Console.WriteLine($"{rows} registros atualizados");
+        }
+
+        static void DeleteCategory(SqlConnection connection)
+        {
+            var deleteQuery = "DELETE [Category] WHERE [Id]=@id";
+            var rows = connection.Execute(deleteQuery, new
+            {
+                id = new Guid("ea8059a2-e679-4e74-99b5-e4f0b310fe6f"),
+            });
+
+            Console.WriteLine($"{rows} registros excluídos");
         }
 
         static void CreateManyCategory(SqlConnection connection)
