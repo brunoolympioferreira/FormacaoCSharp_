@@ -1,0 +1,12 @@
+dotnet watch run << rodar o servidor em tempo real
+
+Passos para criar um banco de dados com Entity Framework:
+
+dotnet tool install --global dotnet-ef < Acesso a todos comando do entity framework
+dotnet add package microsoft.entityframeworkcore.design
+dotnet ef migrations add inicialCreate
+dotnet ef database update
+
+Pacotes Para autenticação:
+dotnet add package Microsoft.AppNetCore.Authentication
+dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer (tokens)
