@@ -10,3 +10,6 @@ dotnet ef database update
 Pacotes Para autenticação:
 dotnet add package Microsoft.AppNetCore.Authentication
 dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer (tokens)
+
+Para Documentação da API:
+dotnet add package  Swashbuckle.AspNetCore
