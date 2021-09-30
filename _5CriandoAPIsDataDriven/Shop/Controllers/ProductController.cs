@@ -14,6 +14,7 @@ namespace Shop.Controllers
     {
         [HttpGet]
         [Route("")]
+        [AllowAnonymous]
         public async Task<ActionResult<List<Product>>> Get([FromServices] DataContext context)
         {
             var products = await context.Products
@@ -52,6 +53,7 @@ namespace Shop.Controllers
 
         [HttpPost]
         [Route("")]
+        [Authorize(Roles = "employee")]
         public async Task<ActionResult<Product>> Post(
             [FromServices] DataContext context,
             [FromBody] Product model)
@@ -67,5 +69,6 @@ namespace Shop.Controllers
                 return BadRequest(ModelState);
             }
         }
+        // CRIAR O DELETE
     }
 }

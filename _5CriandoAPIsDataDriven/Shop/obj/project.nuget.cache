@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5dIxfUQqFIGiEQ8DRybn1pPf6fimBPxjQ50IlLrQjjzSRrS/+nzXcalNPRxlG1rl7GRWzuBFoWGxcMFnB/t0Rw==",
+  "dgSpecHash": "8F7zhXmebAasxhAX/EgazpQYTWsFCCgnmy6Mdu/MdPTw5NB1NkQn48f3uqL49Y2LuSGbKvXp3+GspCHfrZad6g==",
   "success": true,
   "projectFilePath": "C:\\Cursos\\FormacaoCSharp\\_5CriandoAPIsDataDriven\\Shop\\Shop.csproj",
   "expectedPackageFiles": [
@@ -38,10 +38,10 @@
     "C:\\Users\\b.olympio\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\b.olympio\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\b.olympio\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
-    "C:\\Users\\b.olympio\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "C:\\Users\\b.olympio\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "C:\\Users\\b.olympio\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\b.olympio\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\b.olympio\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.2\\swashbuckle.aspnetcore.6.2.2.nupkg.sha512",
+    "C:\\Users\\b.olympio\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.2\\swashbuckle.aspnetcore.swagger.6.2.2.nupkg.sha512",
+    "C:\\Users\\b.olympio\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.2\\swashbuckle.aspnetcore.swaggergen.6.2.2.nupkg.sha512",
+    "C:\\Users\\b.olympio\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.2\\swashbuckle.aspnetcore.swaggerui.6.2.2.nupkg.sha512",
     "C:\\Users\\b.olympio\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\b.olympio\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
     "C:\\Users\\b.olympio\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
