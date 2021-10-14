@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MwBemcI9eUt/I/Gw/8QgP8cV4HrkBmVu7HoaX4gk5GVxl/wMwUdHB+RmcBsnmTIxnrpDYO4tkI+FNCD26+Z8uQ==",
+  "dgSpecHash": "mpxeHmCT65ZunYY4q5CMqWntKpXX9l/ASEpUQx8OUMbwzzvGJHx+/twQOH3I1IHokKehbbLB+VlNHvzC8RBuBA==",
   "success": true,
-  "projectFilePath": "C:\\Cursos\\FormacaoCSharp\\_6ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Bruno\\Documents\\Cursos\\FormacaoCSharp\\_6ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -10,3 +10,15 @@ C:\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.
 C:\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.dll
 C:\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\ref\PaymentContext.Shared.dll
 C:\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.pdb
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\bin\Debug\net5.0\PaymentContext.Shared.deps.json
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\bin\Debug\net5.0\PaymentContext.Shared.dll
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\bin\Debug\net5.0\ref\PaymentContext.Shared.dll
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\bin\Debug\net5.0\PaymentContext.Shared.pdb
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.csproj.AssemblyReference.cache
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.AssemblyInfo.cs
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.dll
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\ref\PaymentContext.Shared.dll
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.pdb
