@@ -206,3 +206,4 @@ C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentC
 C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Tests\bin\Debug\net5.0\PaymentContext.Domain.pdb
 C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Tests\obj\Debug\net5.0\PaymentContext.Tests.csproj.CopyComplete
 C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Tests\obj\Debug\net5.0\PaymentContext.Tests.genruntimeconfig.cache
+C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Tests\bin\Debug\net5.0\Flunt.dll

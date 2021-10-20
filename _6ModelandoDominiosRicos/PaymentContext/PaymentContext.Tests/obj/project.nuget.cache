@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "IClk5g5H/UuzK02MrsT5vxvhR4JGzIaq6QltNZ6SjdFenNSyAifsv3iJPuLXEYvGD1oDIcO+xGv1gErK88qT+g==",
+  "dgSpecHash": "VOVLd5eYOJ2r709CV0VHlIheWRxvGQNy5MDCpI0CKDetEsEolSdkEBn+rErB1Oak+AsorB86T5O9OUWoV7tTNw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bruno\\Documents\\Cursos\\FormacaoCSharp\\_6ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.4\\microsoft.net.test.sdk.16.9.4.nupkg.sha512",
