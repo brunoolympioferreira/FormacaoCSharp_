@@ -21,4 +21,3 @@ C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentC
 C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.dll
 C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\ref\PaymentContext.Shared.dll
 C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.pdb
-C:\Users\Bruno\Documents\Cursos\FormacaoCSharp\_6ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.csproj.AssemblyReference.cache
